@@ -1,0 +1,5 @@
+env
+authentication_system/db.sqlite3
+authentication_system/authentication_system/__pycache__
+authentication_system/user_api/__pycache__
+authentication_system/user_api/migrations
